@@ -4,8 +4,6 @@
 
 🙋🏻‍♀️ Working for international projects exposed me to multicultural environments, where I learned to employ my most versatile and adaptable qualities. I worked under high pressure deadlines, prepared technical and financial proposals, and managed teams of over 5 people. Thus, I strongly developed my communication and teamwork skills, coupled with a strong analytical thinking.
 
-I first got in touch with the world of statistics when doing my bachelor’s degree. This passion came back when I started working as Project Manager for a startup that developed urban mobility solutions. I participated in the development of a product capable of communicating real-time data. Realizing the power of data to help public authorities improve decision-making made me decide to make a switch in my professional career.
-
 📊 In my data analytics experience, I was able to acquire a deep understanding of the processes and tools used in data science by enrrolling in Ironhack´s Data Analyst course. From Python, database management with SQL, and Machine Learning to storytelling and creating visualizations. As a final project, I developed a demand forecasting model to predict the demand of bikes from the City of London sharing system, where besides machine learning and analytics, I scraped data from the public transport for London API to create dynamic maps with Tableau.
 
 🚀 My objective is to apply all the knowledge I learned in innovative organizations that care for employee professional development and that focus on the redesign of cities to overcome urban challenges threatening city liveability.
