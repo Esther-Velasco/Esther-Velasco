@@ -8,7 +8,7 @@
 
 🚀 My objective is to apply all the knowledge I learned in innovative organizations that care for employee professional development and that focus on the redesign of cities to overcome urban challenges threatening city liveability.
 
-I am technically proficient in: 
+👩🏽‍💻 I am technically proficient in: 
 Python | Pandas | Scikit Learn | SQL | Tableau | MS Office Suite | Excel | Canva | Miro| Trello | Machine Learning | Web Scraping
 
-French and Spanish are both my mother tongues, added to a proficiency level in English and intermediate in German.
+🗣️ French and Spanish are both my mother tongues, added to a proficiency level in English and intermediate in German.
